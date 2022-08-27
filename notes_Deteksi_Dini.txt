@@ -1,0 +1,32 @@
+Dashboard Deteksi Dini (BDV: Ramzi)
+mostly used: BPR Report
+
+datasource:
+RBB All BPR
+sheet 1: cabang
+sheet 2: BPR 
+
+Detail Deteksi Dini:
+Bonus Point NI: kelebihan dari laba
+
+*Camel = capatial asset management earning liquidity
+*atas tambah dua bagi dua
+
+*batasan umur tentative based on pensiun
+*untuk pengusaha 60
+
+BLR: Base Landing Rate(similar like harga pokok) 18 - 24%
+
+Klasifikasi BPR:
+1. BPR Kegiatan Usaha (BPRKU 1) < 15 jt
+2. BPR Kegiatan Usaha (BPRKU 2)  15 - 50 jt
+3. BPR Kegiatan Usaha (BPRKU 3) > 50 jt
+* min modal OJK 3M
+
+Prinsip Penyaluran Kredit 6C:
+1. Character
+2. Capacity
+3. Capital
+4. Condition
+5. Constraint
+6. Collateral

@@ -1,0 +1,106 @@
+/** Express router providing View_R1_Nasabah_Pengajuan related routes
+ *
+ * @module routers/View_R1_Nasabah_Pengajuan
+ * @module config - app config
+ * @module utils - app utils functions
+ * @module express-validator - form validation module
+ * @module models- app model module
+ * @requires express
+ */
+const express = require('express');
+const router = express.Router();
+const models = require('../models/index.js');
+const View_R1_Nasabah_Pengajuan = models.View_R1_Nasabah_Pengajuan;
+
+
+const sequelize = models.sequelize; // sequelize functions and operations
+const Op = models.Op; // sequelize query operators
+const filterByRaw = models.filterByRaw; // sequelize where condtion
+const dbRaw = sequelize.literal; // sequelize raw query expression
+
+
+
+
+/**
+ * Route to list view_r1_nasabah_pengajuan records
+ * @route {GET} /view_r1_nasabah_pengajuan/index/{fieldname}/{fieldvalue}
+ * @param {array} path - Array of express paths
+ * @param {callback} middleware - Express middleware.
+ */
+router.get(['/', '/index/:fieldname?/:fieldvalue?'], async (req, res) => {  
+	try{
+		let query = {};  // sequelize query object
+		let where = {};  // sequelize where conditions
+		let replacements = {};  // sequelize query params
+		let fieldname = req.params.fieldname;
+		let fieldvalue = req.params.fieldvalue;
+		
+		if (fieldname){
+			where[Op.and] = [
+				sequelize.literal(`(${fieldname} = :fieldvalue)`)
+			];
+			replacements.fieldvalue = fieldvalue;
+		}
+		let search = req.query.search;
+		if(search){
+			let searchFields = View_R1_Nasabah_Pengajuan.searchFields();
+			where[Op.or] = searchFields;
+			replacements.search = `%${search}%`;
+		}
+		
+		
+		query.raw = true;
+		query.where = where;
+		query.replacements = replacements;
+		query.order = View_R1_Nasabah_Pengajuan.getOrderBy(req, 'desc');
+		query.attributes = View_R1_Nasabah_Pengajuan.listFields();
+		let page = parseInt(req.query.page) || 1;
+		let limit = parseInt(req.query.limit) || 20;
+		let result = await View_R1_Nasabah_Pengajuan.paginate(query, page, limit);
+		return res.ok(result);
+	}
+	catch(err) {
+		return res.serverError(err);
+	}
+});
+
+router.get(['/count_setuju/:idkar_marketing'], async (req, res) => {
+	try {
+		let idkar_marketing = req.params.idkar_marketing || null;
+		let query = {}
+		let where = {hasil_putusan: 'pengajuan_disetujui'}
+		where['idkar_marketing'] = idkar_marketing;
+		query.raw = true;
+		query.where = where;
+		query.attributes = View_R1_Nasabah_Pengajuan.countPengajuan();
+		let record = await View_R1_Nasabah_Pengajuan.findOne(query);
+		if(!record){
+			return res.notFound();
+		}
+		return res.ok(record);
+
+	} catch (err) {
+		return res. serverError(err);
+	}
+});
+router.get(['/count_dalamproses/:idkar_marketing'], async (req, res) => {
+	try {
+		let idkar_marketing = req.params.idkar_marketing || null;
+		let query = {}
+		let where = {}
+		where['idkar_marketing'] = idkar_marketing;
+		query.raw = true;
+		query.where = where;
+		query.attributes = View_R1_Nasabah_Pengajuan.countPengajuan();
+		let record = await View_R1_Nasabah_Pengajuan.findOne(query);
+		if(!record){
+			return res.notFound();
+		}
+		return res.ok(record);
+
+	} catch (err) {
+		return res. serverError(err);
+	}
+});
+
+module.exports = router;

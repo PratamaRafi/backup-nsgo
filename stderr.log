@@ -1,0 +1,3495 @@
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/app.js:12:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/app.js:12:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/app.js:12:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+SyntaxError: Unexpected token } in JSON at position 80
+    at JSON.parse (<anonymous>)
+    at parse (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:190:9)
+    at invokeCallback (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:231:16)
+    at done (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:314:20)
+    at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+    at endReadableNT (_stream_readable.js:1241:12)
+SyntaxError: Unexpected token } in JSON at position 80
+    at JSON.parse (<anonymous>)
+    at parse (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:190:9)
+    at invokeCallback (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:231:16)
+    at done (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:314:20)
+    at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+    at endReadableNT (_stream_readable.js:1241:12)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+SyntaxError: Unexpected token } in JSON at position 331
+    at JSON.parse (<anonymous>)
+    at parse (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:190:9)
+    at invokeCallback (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:231:16)
+    at done (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:314:20)
+    at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+    at endReadableNT (_stream_readable.js:1241:12)
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module '/home/nbagroup/public_html/nodejs-platform/api.go//app.js'
+Require stack:
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/usr/local/lsws/fcgi-bin/lsnode.js' ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module '/home/nbagroup/public_html/nodejs-platform/api.go//app.js'
+Require stack:
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/usr/local/lsws/fcgi-bin/lsnode.js' ]
+}
+Server Request Error Error
+    at Query.run (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/sequelize.js:311:28
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async MySQLQueryInterface.insert (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:308:21)
+    at async Karyawan_Marketingprospek.save (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/model.js:2432:35)
+    at async Function.create (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/model.js:1344:12)
+    at async /home/nbagroup/public_html/nodejs-platform/api.go/controllers/karyawan_marketingprospek.js:125:16 {
+  name: 'SequelizeForeignKeyConstraintError',
+  parent: Error: Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))
+      at Packet.asError (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packets/packet.js:708:17)
+      at Execute.execute (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:408:32)
+      at PacketParser.onPacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:70:12)
+      at PacketParser.executeStart (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:77:25)
+      at Socket.emit (events.js:314:20)
+      at Socket.EventEmitter.emit (domain.js:483:12)
+      at addChunk (_stream_readable.js:297:12)
+      at readableAddChunk (_stream_readable.js:272:9) {
+    code: 'ER_NO_REFERENCED_ROW_2',
+    errno: 1452,
+    sqlState: '23000',
+    sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))',
+    sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (?,?,?,?,?,?,?,?,?,?);',
+    parameters: [
+      'string',
+      '2763',
+      'string',
+      'Satria Dafa',
+      'Tegal',
+      '085713090494',
+      'Programmer',
+      '2000000',
+      'Belum Berminat',
+      '2022-07-07'
+    ]
+  },
+  original: Error: Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))
+      at Packet.asError (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packets/packet.js:708:17)
+      at Execute.execute (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:408:32)
+      at PacketParser.onPacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:70:12)
+      at PacketParser.executeStart (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:77:25)
+      at Socket.emit (events.js:314:20)
+      at Socket.EventEmitter.emit (domain.js:483:12)
+      at addChunk (_stream_readable.js:297:12)
+      at readableAddChunk (_stream_readable.js:272:9) {
+    code: 'ER_NO_REFERENCED_ROW_2',
+    errno: 1452,
+    sqlState: '23000',
+    sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))',
+    sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (?,?,?,?,?,?,?,?,?,?);',
+    parameters: [
+      'string',
+      '2763',
+      'string',
+      'Satria Dafa',
+      'Tegal',
+      '085713090494',
+      'Programmer',
+      '2000000',
+      'Belum Berminat',
+      '2022-07-07'
+    ]
+  },
+  sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (?,?,?,?,?,?,?,?,?,?);',
+  parameters: [
+    'string',
+    '2763',
+    'string',
+    'Satria Dafa',
+    'Tegal',
+    '085713090494',
+    'Programmer',
+    '2000000',
+    'Belum Berminat',
+    '2022-07-07'
+  ],
+  table: 'nasabah_dataumum',
+  fields: [ 'id_nasabah' ],
+  value: 'string',
+  index: 'karyawan_marketingprospek_ibfk_1',
+  reltype: 'child'
+}
+Server Request Error Error
+    at Query.run (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/sequelize.js:311:28
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async MySQLQueryInterface.insert (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:308:21)
+    at async Karyawan_Marketingprospek.save (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/model.js:2432:35)
+    at async Function.create (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/model.js:1344:12)
+    at async /home/nbagroup/public_html/nodejs-platform/api.go/controllers/karyawan_marketingprospek.js:125:16 {
+  name: 'SequelizeForeignKeyConstraintError',
+  parent: Error: Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))
+      at Packet.asError (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packets/packet.js:708:17)
+      at Execute.execute (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:408:32)
+      at PacketParser.onPacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:70:12)
+      at PacketParser.executeStart (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:77:25)
+      at Socket.emit (events.js:314:20)
+      at Socket.EventEmitter.emit (domain.js:483:12)
+      at addChunk (_stream_readable.js:297:12)
+      at readableAddChunk (_stream_readable.js:272:9) {
+    code: 'ER_NO_REFERENCED_ROW_2',
+    errno: 1452,
+    sqlState: '23000',
+    sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))',
+    sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (?,?,?,?,?,?,?,?,?,?);',
+    parameters: [
+      'string',
+      '2763',
+      '202207063',
+      'Satria Dafa',
+      'Tegal',
+      '085713090494',
+      'Programmer',
+      '2000000',
+      'Belum Berminat',
+      '2022-07-07'
+    ]
+  },
+  original: Error: Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))
+      at Packet.asError (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packets/packet.js:708:17)
+      at Execute.execute (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:408:32)
+      at PacketParser.onPacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:70:12)
+      at PacketParser.executeStart (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:77:25)
+      at Socket.emit (events.js:314:20)
+      at Socket.EventEmitter.emit (domain.js:483:12)
+      at addChunk (_stream_readable.js:297:12)
+      at readableAddChunk (_stream_readable.js:272:9) {
+    code: 'ER_NO_REFERENCED_ROW_2',
+    errno: 1452,
+    sqlState: '23000',
+    sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))',
+    sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (?,?,?,?,?,?,?,?,?,?);',
+    parameters: [
+      'string',
+      '2763',
+      '202207063',
+      'Satria Dafa',
+      'Tegal',
+      '085713090494',
+      'Programmer',
+      '2000000',
+      'Belum Berminat',
+      '2022-07-07'
+    ]
+  },
+  sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (?,?,?,?,?,?,?,?,?,?);',
+  parameters: [
+    'string',
+    '2763',
+    '202207063',
+    'Satria Dafa',
+    'Tegal',
+    '085713090494',
+    'Programmer',
+    '2000000',
+    'Belum Berminat',
+    '2022-07-07'
+  ],
+  table: 'nasabah_dataumum',
+  fields: [ 'id_nasabah' ],
+  value: '202207063',
+  index: 'karyawan_marketingprospek_ibfk_1',
+  reltype: 'child'
+}
+Server Request Error Error
+    at Query.run (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/sequelize.js:311:28
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async MySQLQueryInterface.insert (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:308:21)
+    at async Karyawan_Marketingprospek.save (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/model.js:2432:35)
+    at async Function.create (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/model.js:1344:12)
+    at async /home/nbagroup/public_html/nodejs-platform/api.go/controllers/karyawan_marketingprospek.js:125:16 {
+  name: 'SequelizeForeignKeyConstraintError',
+  parent: Error: Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))
+      at Packet.asError (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packets/packet.js:708:17)
+      at Execute.execute (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:408:32)
+      at PacketParser.onPacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:70:12)
+      at PacketParser.executeStart (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:77:25)
+      at Socket.emit (events.js:314:20)
+      at Socket.EventEmitter.emit (domain.js:483:12)
+      at addChunk (_stream_readable.js:297:12)
+      at readableAddChunk (_stream_readable.js:272:9) {
+    code: 'ER_NO_REFERENCED_ROW_2',
+    errno: 1452,
+    sqlState: '23000',
+    sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))',
+    sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (?,?,?,?,?,?,?,?,?,?);',
+    parameters: [
+      'string',
+      '2763',
+      '202207063',
+      'Satria Dafa',
+      'Tegal',
+      '085713090494',
+      null,
+      null,
+      'Belum Berminat',
+      '2022-07-07'
+    ]
+  },
+  original: Error: Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))
+      at Packet.asError (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packets/packet.js:708:17)
+      at Execute.execute (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:408:32)
+      at PacketParser.onPacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:70:12)
+      at PacketParser.executeStart (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:77:25)
+      at Socket.emit (events.js:314:20)
+      at Socket.EventEmitter.emit (domain.js:483:12)
+      at addChunk (_stream_readable.js:297:12)
+      at readableAddChunk (_stream_readable.js:272:9) {
+    code: 'ER_NO_REFERENCED_ROW_2',
+    errno: 1452,
+    sqlState: '23000',
+    sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))',
+    sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (?,?,?,?,?,?,?,?,?,?);',
+    parameters: [
+      'string',
+      '2763',
+      '202207063',
+      'Satria Dafa',
+      'Tegal',
+      '085713090494',
+      null,
+      null,
+      'Belum Berminat',
+      '2022-07-07'
+    ]
+  },
+  sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (?,?,?,?,?,?,?,?,?,?);',
+  parameters: [
+    'string',
+    '2763',
+    '202207063',
+    'Satria Dafa',
+    'Tegal',
+    '085713090494',
+    null,
+    null,
+    'Belum Berminat',
+    '2022-07-07'
+  ],
+  table: 'nasabah_dataumum',
+  fields: [ 'id_nasabah' ],
+  value: '202207063',
+  index: 'karyawan_marketingprospek_ibfk_1',
+  reltype: 'child'
+}
+Server Request Error Error
+    at Query.run (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/sequelize.js:311:28
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async MySQLQueryInterface.insert (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:308:21)
+    at async Karyawan_Marketingprospek.save (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/model.js:2432:35)
+    at async Function.create (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/model.js:1344:12)
+    at async /home/nbagroup/public_html/nodejs-platform/api.go/controllers/karyawan_marketingprospek.js:125:16 {
+  name: 'SequelizeForeignKeyConstraintError',
+  parent: Error: Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))
+      at Packet.asError (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packets/packet.js:708:17)
+      at Execute.execute (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:408:32)
+      at PacketParser.onPacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:70:12)
+      at PacketParser.executeStart (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:77:25)
+      at Socket.emit (events.js:314:20)
+      at Socket.EventEmitter.emit (domain.js:483:12)
+      at addChunk (_stream_readable.js:297:12)
+      at readableAddChunk (_stream_readable.js:272:9) {
+    code: 'ER_NO_REFERENCED_ROW_2',
+    errno: 1452,
+    sqlState: '23000',
+    sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))',
+    sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?);',
+    parameters: [
+      '2763',
+      '202207063',
+      'Satria Dafa',
+      'Tegal',
+      '085713090494',
+      null,
+      null,
+      'Belum Berminat',
+      '2022-07-07'
+    ]
+  },
+  original: Error: Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))
+      at Packet.asError (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packets/packet.js:708:17)
+      at Execute.execute (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:408:32)
+      at PacketParser.onPacket (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:70:12)
+      at PacketParser.executeStart (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/mysql2/lib/connection.js:77:25)
+      at Socket.emit (events.js:314:20)
+      at Socket.EventEmitter.emit (domain.js:483:12)
+      at addChunk (_stream_readable.js:297:12)
+      at readableAddChunk (_stream_readable.js:272:9) {
+    code: 'ER_NO_REFERENCED_ROW_2',
+    errno: 1452,
+    sqlState: '23000',
+    sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`nsgodummy_data`.`karyawan_marketingprospek`, CONSTRAINT `karyawan_marketingprospek_ibfk_1` FOREIGN KEY (`id_nasabah`) REFERENCES `nasabah_dataumum` (`id_nasabah`))',
+    sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?);',
+    parameters: [
+      '2763',
+      '202207063',
+      'Satria Dafa',
+      'Tegal',
+      '085713090494',
+      null,
+      null,
+      'Belum Berminat',
+      '2022-07-07'
+    ]
+  },
+  sql: 'INSERT INTO `karyawan_marketingprospek` (`id`,`id_karyawan`,`id_nasabah`,`nm_prospek`,`almt_prospek`,`telp`,`pkerjaan`,`penghasilan`,`status_prospek`,`tg_prospek`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?);',
+  parameters: [
+    '2763',
+    '202207063',
+    'Satria Dafa',
+    'Tegal',
+    '085713090494',
+    null,
+    null,
+    'Belum Berminat',
+    '2022-07-07'
+  ],
+  table: 'nasabah_dataumum',
+  fields: [ 'id_nasabah' ],
+  value: '202207063',
+  index: 'karyawan_marketingprospek_ibfk_1',
+  reltype: 'child'
+}
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: string, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/moment/moment.js:324:25)
+    at configFromString (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/moment/moment.js:2550:19)
+    at configFromInput (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/moment/moment.js:2993:13)
+    at prepareConfig (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/moment/moment.js:2976:13)
+    at createFromConfig (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/moment/moment.js:2943:44)
+    at createLocalOrUTC (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/moment/moment.js:3037:16)
+    at createLocal (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/moment/moment.js:3041:16)
+    at hooks (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/moment/moment.js:16:29)
+    at Karyawan_Profile._sanitize (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/data-types.js:356:14)
+    at Karyawan_Profile.set (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/sequelize/lib/model.js:2234:59)
+SyntaxError: Unexpected string in JSON at position 220
+    at JSON.parse (<anonymous>)
+    at parse (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:190:9)
+    at invokeCallback (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:231:16)
+    at done (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:314:20)
+    at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+    at endReadableNT (_stream_readable.js:1241:12)
+SyntaxError: Unexpected string in JSON at position 224
+    at JSON.parse (<anonymous>)
+    at parse (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:190:9)
+    at invokeCallback (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:231:16)
+    at done (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:314:20)
+    at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+    at endReadableNT (_stream_readable.js:1241:12)
+SyntaxError: Unexpected string in JSON at position 224
+    at JSON.parse (<anonymous>)
+    at parse (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:190:9)
+    at invokeCallback (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:231:16)
+    at done (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:314:20)
+    at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+    at endReadableNT (_stream_readable.js:1241:12)
+SyntaxError: Unexpected token } in JSON at position 95
+    at JSON.parse (<anonymous>)
+    at parse (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:190:9)
+    at invokeCallback (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:231:16)
+    at done (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:314:20)
+    at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+    at endReadableNT (_stream_readable.js:1241:12)
+SyntaxError: Unexpected string in JSON at position 38
+    at JSON.parse (<anonymous>)
+    at parse (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:190:9)
+    at invokeCallback (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:231:16)
+    at done (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:314:20)
+    at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+    at endReadableNT (_stream_readable.js:1241:12)
+SyntaxError: Unexpected string in JSON at position 38
+    at JSON.parse (<anonymous>)
+    at parse (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:190:9)
+    at invokeCallback (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:231:16)
+    at done (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:314:20)
+    at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+    at endReadableNT (_stream_readable.js:1241:12)
+PayloadTooLargeError: request entity too large
+    at readStream (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:156:17)
+    at getRawBody (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/raw-body/index.js:109:12)
+    at read (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/read.js:79:3)
+    at jsonParser (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/body-parser/lib/types/json.js:135:5)
+    at Layer.handle [as handle_request] (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/express/lib/router/index.js:328:13)
+    at /home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/express/lib/router/index.js:280:10)
+    at serveStatic (/home/nbagroup/nodevenv/public_html/nodejs-platform/api.go/12/lib/node_modules/serve-static/index.js:75:16)
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module './bank_daftarbank'
+Require stack:
+- /home/nbagroup/public_html/nodejs-platform/api.go/models/index.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js
+- /home/nbagroup/public_html/nodejs-platform/api.go/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js:30:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/nbagroup/public_html/nodejs-platform/api.go/models/index.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/helpers/passport-auth.js',
+    '/home/nbagroup/public_html/nodejs-platform/api.go/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
